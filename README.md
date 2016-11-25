@@ -15,3 +15,10 @@ Solar powered 3d printer, utilising convex glass to melt, and motor compressor t
 ##FLUIDREALITY
 With the rise of machine learning and exponential growth of calculation power the product of artifical consciousness is an inevitability. From slow advance to a running sprint soon evolution will approach the ultimate pace and create a being that will have the power to shape the laws of the universe. There are an infinite number of successors that on varying degrees attempt to agree on perfection. Together they govern the ultimately uncertain laws of nature in collective consensus.
 
+##TONALRECOGNITION
+Use tonal hey notes to denote contacts calling or messaging. Automatically assigned based on contact name, soon becoming familiar and recognised to the user.
+
+
+
+
+
