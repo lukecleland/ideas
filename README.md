@@ -18,6 +18,11 @@ With the rise of machine learning and exponential growth of calculation power th
 ##TONALRECOGNITION
 Use tonal hey notes to denote contacts calling or messaging. Automatically assigned based on contact name, soon becoming familiar and recognised to the user.
 
+#DRONEART
+Computer controlled drones with mesh positioning, colour sensor and a wrining sponge. They soak and mix the appropriate colours and drop paint on to a canvas. Direct feed, and machine learning modes.
+
+
+
 
 
 
