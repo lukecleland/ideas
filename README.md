@@ -26,6 +26,14 @@ A 128x64 display mounted on the wrist with esp8266, n2401l and power on the unde
 
 *CPU $16*
 
+##PUSHRODHEAD
+A matrix of push rods that enable a rapid linear 3d representation of a 2d texture map. 
+
+*CPU $250 8x8*
+
+##GESTURELEARN
+A wrist mounted gesture mapper that also listens to and transposes speech. Over time through machine learning the device can be taught abstract terms and words.
+
 
 
 
