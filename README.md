@@ -22,7 +22,7 @@ Use tonal hey notes to denote contacts calling or messaging. Automatically assig
 Computer controlled drones with mesh positioning, colour sensor and a wrining sponge. They soak and mix the appropriate colours and drop paint on to a canvas. Direct feed, and machine learning modes.
 
 ##GESTUREWATCH
-A 128x64 display mounted on the wrist with esp8266 and power on the underside of the band. The user can program views online to be attached to webhooks. Navigation is programmed to react to gesture controls provided by another wrist mounted esp8266 with accelerometer that are also programmable.  Views can then be mapped in a matrix with sweeping gestures forming direction of custom view updates.
+A 128x64 display mounted on the wrist with esp8266, n2401l and power on the underside of the band. The user can program views online to be attached to webhooks. Navigation is programmed to react to gesture controls provided by an opposite wrist mounted n2401l with accelerometer that are also programmable.  Views can then be mapped in a matrix with sweeping gestures forming direction of custom view updates.
 
 *CPU $16*
 
