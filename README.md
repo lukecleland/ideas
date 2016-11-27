@@ -38,6 +38,9 @@ A matrix of push rods that enable a rapid linear 3d representation of a 2d textu
 ##TALKMETHROUGHIT
 A voice recognitioned control SCUMM-like game that has the actor and audience cooperate through the forth wall.
 
+##BOTTLEBRICKS
+Make bottles rectangular so that they may be filled with sand and used as bricks. This would enable more efficient tessellation that would save on shipping costs giving the industry incentive to adopt the change.
+
 
 
 
