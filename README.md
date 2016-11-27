@@ -34,6 +34,13 @@ A matrix of push rods that enable a rapid linear 3d representation of a 2d textu
 ##GESTURELEARN
 A wrist mounted gesture mapper that also listens to and transposes speech. Over time through machine learning the device can be taught abstract terms and words.
 
+##TALKMETHROUGHIT
+A voice recognitioned control SCUMM-like game that has the actor and audience cooperate through the forth wall.
+
+
+
+
+
 
 
 
