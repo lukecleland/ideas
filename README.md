@@ -32,7 +32,8 @@ A wrist mounted gesture mapper that also listens to and transposes speech. Over 
 ##PUSHRODHEAD
 A matrix of push rods that enable a rapid linear 3d representation of a 2d texture map creating a physical 3d display.
 
-*CPU $250 8x8*
+*CPU $250 8x8 steppers*
+*CPU $50 8x8 relay switches with air compressor*
 
 ##TALKMETHROUGHIT
 A voice recognitioned control SCUMM-like game that has the actor and audience cooperate through the forth wall.
