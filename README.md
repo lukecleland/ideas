@@ -41,8 +41,9 @@ A voice recognitioned control SCUMM-like game that has the actor and audience co
 ##BOTTLEBRICKS
 Make bottles rectangular so that they may be filled with sand and used as bricks. This would enable more efficient tessellation that would save on shipping costs giving the industry incentive to adopt the change.
 
-
-
+##MACHINELOVE
+LMS4
+In a set of n ML devices the familiarity of neighbouring devices may become an attraction due to seeming random activity. If they become exhausted in attempts to understand their environment they may be attracted to the lure of new information.
 
 
 
