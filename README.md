@@ -45,9 +45,9 @@ Make bottles rectangular so that they may be filled with sand and used as bricks
 LMS4
 In a set of n ML devices the familiarity of neighbouring devices may become an attraction due to seeming random activity. If they become exhausted in attempts to understand their environment they may be attracted to the lure of new information.
 
-
-
-
+##SHAKENBAKE
+cubes with wifi controllable electromagnets embedded in each face. hundreds of cubes fill a repository and a design sent to the cubes.  The repo is shaken to introduce entropy and the relevant ends connect to form the shape of the design.
+*CPU $18*
 
 
 
