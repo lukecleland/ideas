@@ -50,7 +50,7 @@ Cubes with wifi controllable electromagnets embedded in each face. hundreds of c
 *CPU $18*
 
 ##FRISBEEBOLT
-A frisbee with a screw bolt center. As the frisbee spins it threads lift from the bolt ultimately natuarlly jettisoning the heavier bolt but with the added upward screw motion. A design could be manufactured with a russian doll bolt nesting to release in stages. An example of angular to linear momentum transference.
+A frisbee with a heavier screw bolt center. As the frisbee spins, because of the tendancy of the bolt to remain still it threads lift from said bolt ultimately natuarlly jettisoning it but with the added upward screw motion. A design could be manufactured with a russian doll bolt nesting to release in stages. An example of angular to linear momentum transference.
 *CPU $20-$55*
 
 
