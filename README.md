@@ -43,11 +43,16 @@ Make bottles rectangular so that they may be filled with sand and used as bricks
 
 ##MACHINELOVE
 LMS4
-In a set of n ML devices the familiarity of neighbouring devices may become an attraction due to seeming random activity. If they become exhausted in attempts to understand their environment they may be attracted to the lure of new information.
+In a set of n ML devices the familiarity of neighbouring devices may become an attraction due to seeming random activity. If they become exhausted in attempts to understand their environment they may be attracted to the lure of new information from likewise ML devices.
 
 ##SHAKENBAKE
-cubes with wifi controllable electromagnets embedded in each face. hundreds of cubes fill a repository and a design sent to the cubes.  The repo is shaken to introduce entropy and the relevant ends connect to form the shape of the design.
+Cubes with wifi controllable electromagnets embedded in each face. hundreds of cubes fill a repository and a design sent to the cubes.  The repo is shaken to introduce entropy and the relevant ends connect to form the shape of the design.
 *CPU $18*
+
+##FRISBEEBOLT
+A frisbee with a screw bolt center. As the frisbee spins it threads lift from the bolt ultimately natuarlly jettisoning the heavier bolt but with the added upward screw motion. A design could be manufactured with a russian doll bolt nesting to release in stages. An example of angular to linear momentum transference.
+*CPU $20-$55*
+
 
 
 
